@@ -43,7 +43,7 @@ The dataset used for training and evaluation was synthetically generated under v
 | Mean period, *T*<sub>mean</sub> [s]        | 7.5 &nbsp;&nbsp; 9.5 &nbsp;&nbsp; 11.5 &nbsp;&nbsp; 7.5 &nbsp;&nbsp; 9.5 &nbsp;&nbsp; 11.5 &nbsp;&nbsp; 7.5 &nbsp;&nbsp; 9.5 &nbsp;&nbsp; 11.5 |
 | Propagation direction, χ [deg]   | 90 &nbsp;&nbsp; 90 &nbsp;&nbsp; 90 &nbsp;&nbsp; 135 &nbsp;&nbsp; 135 &nbsp;&nbsp; 135 &nbsp;&nbsp; 180 &nbsp;&nbsp; 180 &nbsp;&nbsp; 180         |
 | Significant height, *H*<sub>S</sub> [m]     | 3.5                                                                         |
-| Simulation time [s]              | 90,000 for each condition                                                   |
+| Simulation time [s]              | 10,000 for each condition                                                   |
 | Time step, *dt* [s]              | 0.01                                                                        |
 
 
